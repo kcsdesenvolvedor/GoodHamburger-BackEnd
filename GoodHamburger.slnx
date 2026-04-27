@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/Api/">
+    <Project Path="GoodHamburger.API/GoodHamburger.API.csproj" />
+  </Folder>
+  <Folder Name="/Core/" />
+  <Folder Name="/Core/Application/">
+    <Project Path="GoodHamburger.Application/GoodHamburger.Application.csproj" />
+  </Folder>
+  <Folder Name="/Core/Domain/">
+    <Project Path="GoodHamburger.Domain/GoodHamburger.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="GoodHamburger.Infrastructure/GoodHamburger.Infrastructure.csproj" Id="f76f8118-f4e9-4471-972f-81518e2a8285" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="GoodHamburger.Tests/GoodHamburger.Tests.csproj" Id="7cd6ffd3-e6bb-46ab-9d93-d1f81e6fa978" />
+  </Folder>
+</Solution>
